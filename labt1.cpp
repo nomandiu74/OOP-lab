@@ -1,3 +1,5 @@
+//problem:Write a program using a class that holds the account holder's name, Gmail, balance, and mobile number. Finally, print the information of 5 account holders that receive those values from the main function.
+
 #include<bits/stdc++.h>
 using namespace std;
 class AccountHolder
