@@ -1,7 +1,6 @@
-
-
+//problem:Write a program that overloads a constructor in the class in C++ programming languages
 //constructor overloading :
-//answer: More than 1 constructor is constructor overloading.
+//answer: More than 1 constructor is called constructor overloading.
 #include <iostream>
 using namespace std;
 
